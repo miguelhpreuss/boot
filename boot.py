@@ -28,6 +28,6 @@ keyUp()
 '''
 '''
 click(610, 737)
-typewrite("ola brena, como vai?", interval=0.1)
+typewrite("ola, como vai?", interval=0.1)
 click(1333, 735)
 '''
